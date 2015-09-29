@@ -4,4 +4,5 @@
 void bar(void)
 {
 	printf("bar : world!\n");
+	printf("git modification\n");
 }
