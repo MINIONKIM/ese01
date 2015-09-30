@@ -4,6 +4,7 @@
 
 int main(int argc, char* argv[])
 {
+	printf("are you free tonight?\n");
 	foo();
 	bar();
 	return 0;
